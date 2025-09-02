@@ -1,0 +1,3 @@
+namespace Mukhametshin_Test_Aviakod.UseCases.Infrastructure.Interfaces;
+
+public interface IValidated;
